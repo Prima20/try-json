@@ -1,0 +1,39 @@
+{
+    "level": {
+       " normal": {
+            "key": "normal",
+            "levels" : [
+                {
+                    "level": 1,
+                    "col": 4,
+                    "row": 5,
+                    "time": 60
+                }
+            ]
+        },
+        "advance": {
+           "key" : "advance",
+            "lives": 3,
+            "levels": [
+                {
+                    "level": 1,
+                    "col": 3,
+                    "row": 4,
+                    "time": 60
+                },
+                {
+                    "level": 2,
+                    "col": 5,
+                    "row": 6,
+                    "time": 60
+                },
+                {
+                    "level": 2,
+                    "col": 4,
+                    "row": 5,
+                    "time": 60
+                }
+            ]
+        }
+    }
+}
